@@ -138,6 +138,23 @@ body {
   line-height: 26px;
 }
 
+
+.ic{
+  display: flex;
+}
+.hj{
+  margin-bottom: 40px;
+}
+.txtc{
+  color: white;
+}
+.bnm{
+  padding-bottom: 30px;
+}
+.fas{
+  margin-right: 10px;
+  margin-top: 5px;
+}
 h1,
 h2,
 h3,
@@ -332,17 +349,17 @@ figure{
 .small-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 15px;
+  
 }
 
 .g-40,
 .gx-40 {
-  --bs-gutter-x: 40px;
+  --bs-gutter-x: 20px;
 }
 
 .g-40,
 .gy-40 {
-  --bs-gutter-y: 40px;
+  --bs-gutter-y: 20px;
 }
 
 .g-50,
@@ -1008,16 +1025,16 @@ figure{
 }
 
 .section-space-medium {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-space-medium {
-    padding: 80px 0;
+    padding: 40px 0;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-space-medium {
-    padding: 60px 0;
+    padding: 40px 0;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
