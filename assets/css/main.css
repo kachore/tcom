@@ -989,21 +989,21 @@ figure{
 }
 
 .section-space-top {
-  padding-top: 120px;
+  padding-top: 60px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-space-top {
-    padding-top: 100px;
+    padding-top: 50px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-space-top {
-    padding-top: 80px;
+    padding-top: 40px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
   .section-space-top {
-    padding-top: 70px;
+    padding-top: 30px;
   }
 }
 
