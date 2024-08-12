@@ -111,7 +111,7 @@ h6, i[class^=flaticon-], .body__overlay {
   --primary-font: 'Inter', sans-serif;
   --secondary-font: 'Roboto', sans-serif;
  
-  --theme-color: #EA1826;
+  --theme-color: #004A87;
   --theme-color-1: #102039;
 }
 
@@ -138,7 +138,9 @@ body {
   line-height: 26px;
 }
 
-
+.exp{
+  font-size: 10px;
+}
 .ic{
   display: flex;
 }
@@ -880,28 +882,28 @@ figure{
 
 
 .section-title {
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 46px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1600px) {
   .section-title {
-    font-size: 48px !important;
+    font-size: 4px !important;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .section-title {
-    font-size: 42px !important;
+    font-size: 35px !important;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-title {
-    font-size: 36px !important;
+    font-size: 30px !important;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-title {
-    font-size: 45px !important;
+    font-size: 40px !important;
   }
   .section-title br {
     display: none;
